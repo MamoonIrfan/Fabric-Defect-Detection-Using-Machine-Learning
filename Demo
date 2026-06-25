@@ -1,0 +1,16 @@
+# Project Demo
+
+This folder contains the demonstration of the **Machine Learning-based Fabric Defect Detection System**.
+
+The demo showcases:
+
+* User interface of the application
+* Image upload process
+* Fabric defect detection workflow
+* Model prediction results
+* Overall system functionality
+
+The project is designed to provide an automated, cost-effective, and high-accuracy solution for fabric quality inspection using Machine Learning techniques.
+
+If the video cannot be played directly on GitHub, you can also watch the demonstration on YouTube (link will be added here).
+Link: https://www.youtube.com/watch?v=iu1aycB7EUk
